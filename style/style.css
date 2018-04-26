@@ -1,0 +1,62 @@
+h1 {
+  color: rgb(32,178,170);
+  text-align:center;
+}
+
+h2 {
+  color: rgb(0,83,0);
+  text-align:center;
+}
+
+h3 {
+  color: rgb(0,83,0);
+}
+
+.potw {
+  height: 200px;
+}
+
+.wsalf {
+  height: 200px;}
+
+
+
+h1 {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 40px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+ h2 {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 32px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+h3 {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+
+p {
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 17.4px;
+}
+body {
+  font-family:Arial;
+  background-color:rgb(240,248,255);
+border: 20px double rgb(200,200,200);
+  padding: 35px
+}

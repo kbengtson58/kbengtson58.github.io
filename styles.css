@@ -14,10 +14,26 @@ h3 {
 
 .potw {
   height: 200px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
+.dog {
+  height: 200px;
+  padding-left: 500px;}
+
 .wsalf {
-  height: 200px;}
+  height: 200px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.shelters {
+  padding-left: 300px;
+}
 
 
 
@@ -59,4 +75,39 @@ body {
   background-color:rgb(240,248,255);
 border: 20px double rgb(200,200,200);
   padding: 35px
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  font-family: Helvetica;
+  padding: 20px;
+  width: 250px;
+}
+
+li a {
+  display: block;
+  text-decoration: none;
+  font-size: 17px;
+  color: rgb(0, 0, 0);
+  padding: 5px;
+}
+nav {
+  float: right;
+  text-align: center;
+  padding: 1px;
+  border: outset aqua;
+}
+
+nav a:hover {
+   background-color: #ddd;
+    color: rgb(204, 85, 0);
+  text-decoration: underline;
+}
+
+nav a.active {
+  background-color: aqua;
+  color: #004C99;
+  font-weight: bold;
 }
